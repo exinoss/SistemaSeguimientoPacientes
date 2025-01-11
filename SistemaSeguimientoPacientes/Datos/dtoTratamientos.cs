@@ -8,5 +8,10 @@ namespace SistemaSeguimientoPacientes.Datos
 {
     internal class dtoTratamientos
     {
+        public int IdTratamiento { get; set; }
+        public string NombreTratamiento { get; set; }
+        public string Descripcion { get; set; }
+        public int DuracionDias { get; set; }
+        public decimal Costo { get; set; }
     }
 }

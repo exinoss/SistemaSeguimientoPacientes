@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\SistemaSeguimientoPacientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sistemaseguimientopacientes\\sistemaseguimientopacientes\\presentacion\\consultas\\cuconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|solutionrelative:sistemaseguimientopacientes\\presentacion\\consultas\\cuconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sistemaseguimientopacientes\\sistemaseguimientopacientes\\presentacion\\pacientes\\cupacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|solutionrelative:sistemaseguimientopacientes\\presentacion\\pacientes\\cupacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sistemaseguimientopacientes\\sistemaseguimientopacientes\\presentacion\\pacientes\\cupacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|solutionrelative:sistemaseguimientopacientes\\presentacion\\pacientes\\cupacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sistemaseguimientopacientes\\sistemaseguimientopacientes\\presentacion\\consultas\\cuconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|solutionrelative:sistemaseguimientopacientes\\presentacion\\consultas\\cuconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3F23C77-C9B3-430E-B12C-74E936185C6D}|SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sistemaseguimientopacientes\\sistemaseguimientopacientes\\presentacion\\tratamientos\\cutratamientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -66,16 +66,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CUPacientes.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs",
               "RelativeDocumentMoniker": "SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs",
-              "RelativeToolTip": "SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs*",
+              "RelativeToolTip": "SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T00:36:42.999Z",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CUConsultas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes\\Presentacion\\Consultas\\CUConsultas.cs",
               "RelativeDocumentMoniker": "SistemaSeguimientoPacientes\\Presentacion\\Consultas\\CUConsultas.cs",
@@ -107,12 +107,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CUPacientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs",
               "RelativeDocumentMoniker": "SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\SistemaSeguimientoPacientes\\SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "SistemaSeguimientoPacientes\\Presentacion\\Pacientes\\CUPacientes.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T22:28:51.732Z",
               "EditorCaption": " [Dise\u00F1o]"
